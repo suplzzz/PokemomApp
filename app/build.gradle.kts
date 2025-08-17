@@ -10,11 +10,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.rickandmorty"
+    namespace = "com.example.pokemon"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.rickandmorty"
+        applicationId = "com.example.pokemon"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
